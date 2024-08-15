@@ -25,7 +25,7 @@ import Reservations from './AllPages/Reservations'
 import Calenderr from './AllPages/Calenderr'
 import ReviewPage from './AllPages/ReviewPage'
 
-// helloe
+
 
 
 
